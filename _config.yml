@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nathan J Harris
-# subtitle: this is a subtitle
+subtitle: Software Developer
 email: nathan@nathanjharris.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello World!
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : Nathan
   avatar : "/assets/images/nathan-bio-photo.jpeg"
-  bio    : "Software Developer"
+  bio    : "Building software tools that help people and teams work smarter."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -75,6 +75,16 @@ author:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/nathanjosephharris/"
+    - label: "Project Blog"
+      icon: "fa-solid fa-square-rss"
+      url: "https://nathanjh-28.github.io/vp-suite-blog/"
+    - label: "Resume"
+      icon: "fa-regular fa-file"
+      url: ""
+    - label: "Etsy"
+      icon: "fa-brands fa-etsy"
+      url: "https://www.etsy.com/shop/StudioNathanJH"
+      target: "_blank"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
