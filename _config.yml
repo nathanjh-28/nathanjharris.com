@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nathan J Harris
-subtitle: Software Developer
+# masthead_title: </>
+# subtitle: Software Developer
 email: nathan@nathanjharris.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Hello World!
+description: This is a description.
 # twitter_username: username
 github_username: nathanjh-28
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 search: true
 site_url: https://nathanjharris.com
 
