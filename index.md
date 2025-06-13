@@ -69,8 +69,9 @@ C<br>
 C++<br>
 {: style="text-align: center;"} -->
 
-*Nathan specializes in solving real world problems with software tools.*
+<br>**Nathan specializes in solving real world problems with software tools.**<br><br>
 {: style="text-align: center;"}
+{: .notice}
 
 
 ## Education
@@ -90,7 +91,9 @@ B.A. Southern Methodist University - 2010 <br/>
 {% include feature_row %}
 
 <!-- [Keep Reading](/about/){: .btn .btn--x-large .btn--primary"} -->
-<a href="/about/" class="btn btn--x-large btn--success">Keep Reading</a>
+
+<!-- If you have problems to solve or software to build... <br><br> -->
+<!-- <a href="mailto:nathan@nathanjharris.com" class="btn btn--x-large btn--primary">Contact Me</a> -->
 {: style="text-align: center;"}
 
 <!-- ## Experience
