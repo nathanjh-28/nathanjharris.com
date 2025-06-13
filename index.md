@@ -20,29 +20,31 @@ author_profile: true
 masthead: false
 
 feature_row:
-  - image_path: assets/images/unsplash2.jpeg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - title: "Video Project Suite"
+    image_path: /assets/images/erd-version1.png
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Video Project Suite"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /1_vpsuite/
-    btn_label: "Read More"
+    excerpt: "Client serving professioal development project"
+    url: https://nathanjh-28.github.io/vp-suite-blog/
+    btn_label: "Project Blog"
     btn_class: "btn btn--primary btn-large"
-  - image_path: assets/images/unsplash1.jpeg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+feature_row2:
+  - title: "Borrow This"
+    image_path: assets/images/borrow-this.png
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Borrow This"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /borrow-this/
-    btn_label: "Read More"
+    excerpt: "Peer to Peer Rental Community. Capstone project for General Assembly."
+    url: https://github.com/nathanjh-28/Borrow-This
+    btn_label: "GitHub"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash3.jpeg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    title: "Multithreaded DNS Lookup"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: /os-dns-lookup/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  # - title: "Multithreaded DNS Lookup"
+  #   image_path: /assets/images/PA2-overview.png
+  # #   image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  #   excerpt: "A multithreaded project exploring the Producer Consumer problem with Domain name look ups while utilizing thread tools such as mutexes and semaphores. For a course in Operating Systems."
+  #   url: https://github.com/nathanjh-28/OS-DNS-Lookup
+  #   btn_label: "GitHub"
+  #   btn_class: "btn--primary"
+
 ---
 
 <!-- <img src= "{{ site_url }}/assets/images/NJH02674-edited.jpg"> -->
@@ -51,7 +53,7 @@ feature_row:
 <!-- #### Welcome
 I’m a software developer and current computer science student with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most. -->
 
-<p style="color:red;">This site is under construction.  Please excuse the temporary or missing content</p>
+<!-- <p style="color:red;">This site is under construction.  Please excuse the temporary or missing content</p> -->
 
 ## Methods and Tools
 {: style="text-align: center;"}
@@ -69,7 +71,7 @@ C<br>
 C++<br>
 {: style="text-align: center;"} -->
 
-<br>**Nathan specializes in solving real world problems with software tools.**<br><br>
+<br>**Building software tools that help people and teams work smarter.**<br><br>
 {: style="text-align: center;"}
 {: .notice}
 
@@ -88,7 +90,10 @@ B.A. Southern Methodist University - 2010 <br/>
 
 <!-- {% include feature_row id="intro" type="center" %} -->
 
-{% include feature_row %}
+
+{% include feature_row type="left"%}
+{% include feature_row id="feature_row2" type="left"%}
+
 
 <!-- [Keep Reading](/about/){: .btn .btn--x-large .btn--primary"} -->
 

@@ -24,6 +24,8 @@ minimal_mistakes_skin: default
 search: true
 site_url: https://nathanjharris.com
 
+search: false
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -106,6 +108,10 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
+    - label: "Etsy"
+      icon: "fa-brands fa-etsy"
+      url: "https://www.etsy.com/shop/StudioNathanJH"
+      target: "_blank"
 
 defaults:
   # _posts
