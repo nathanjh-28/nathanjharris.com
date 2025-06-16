@@ -145,7 +145,7 @@ B.A. Southern Methodist University - 2010 <br/>
 {% include feature_row id="feature_row3" type="left"%}
 
 
-**You can find more projects on github [here]()**
+**You can find more projects on github [here](https://github.com/nathanjh-28){: target="_blank"}**
 {: style="text-align: center;"}
 
 <hr>
@@ -154,14 +154,14 @@ B.A. Southern Methodist University - 2010 <br/>
 {: style="text-align: center;"}
 ![alt text](assets/images/etsy-banner2.jpg)
 
-**I am passionate about photography and I have been taking travel and art photographs for over 20 years.  Recently I opened an [Etsy store]() selling my prints.**
+**I am passionate about photography and I have been taking travel and art photographs for over 20 years.  Recently I opened an [Etsy store](https://etsy.com/shop/studionathanjh/){: target="_blank"} selling my prints.**
 {: style="text-align: center;"}
 
 ## Contact Me
 {: style="text-align: center;"}
 ![alt](assets/images/nathan-bio-photo.jpeg){: style="width:25%;"}
 {: style="text-align: center;"}
-You can find me on [linkedin](https://www.linkedin.com/in/nathanjosephharris/) or [email](mailto:nathan@nathanjharris.com) me.
+You can message me on [linkedin](https://www.linkedin.com/in/nathanjosephharris/){: target="_blank"} or [email](mailto:nathan@nathanjharris.com) me.
 {: style="text-align: center;"}
 
 
