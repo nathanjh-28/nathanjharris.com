@@ -13,7 +13,7 @@ header:
       url: mailto:nathan@nathanjharris.com
 
 #   caption: ""
-excerpt: "I’m a software developer and current computer science student with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most."
+excerpt: "I’m a software developer and recent computer science graduate with a unique background in lighting console programming for major film productions. After a successful career working with academy award winning talent, I transitioned into software development to apply my problem-solving and communication skills to new challenges. I specialize in building tools that simplify complex processes and help people focus on what matters most."
 intro: 
   - excerpt: "Building software tools that help people and teams work smarter."
 author_profile: true
@@ -27,6 +27,15 @@ feature_row1:
     excerpt: "Client serving professional development project focused on project management with video productions companies. C# - .NET Core API - SQL.  Check out the project blog to see progress!" 
     url: https://nathanjh-28.github.io/vp-suite-blog/
     btn_label: "Project Blog"
+    btn_class: "btn btn--primary btn-large"
+feature_row_1b:
+  - title: "Writing Style Transfer"
+    image_path: /assets/images/project-pics/nlp-wst-screenshot.png
+    # image_caption: ""
+    alt: "placeholder image 1"
+    excerpt: "A Natual Language Processing Research Project focused on Writing Style Transfer between neutral text and stylized texts to serve professional and amateur writers" 
+    url: https://github.com/nathanjh-28/writing-style-transfer-nlp-project
+    btn_label: "GitHub"
     btn_class: "btn btn--primary btn-large"
 feature_row2:
   - title: "Borrow This"
@@ -141,6 +150,7 @@ B.A. Southern Methodist University - 2010 <br/>
 
 
 {% include feature_row id="feature_row1" type="left"%}
+{% include feature_row id="feature_row_1b" type="left"%}
 {% include feature_row id="feature_row2" type="left"%}
 {% include feature_row id="feature_row3" type="left"%}
 
